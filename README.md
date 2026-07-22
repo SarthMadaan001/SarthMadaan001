@@ -1,82 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=40" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=40"/>
 
-# Hi 👋, I'm Sarth 
+# Hi 👋 I'm Sarth
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00F72D&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Java+Developer;Python+Programmer;Deep+Learning+Explorer;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Java+Developer;Python+Developer;Always+Learning+🚀"/>
 
-</div>
-
----
-
-<table>
-<tr>
-
-<td width="38%" align="center">
-
-<img src="https://raw.githubusercontent.com/SarthMadaan001/SarthMadaan001/main/assets/profile.jpeg"
-width="250"
-alt="Sarth Madaan"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=SarthMadaan001&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</td>
-
-<td width="62%">
-
-## 💫 About Me
-
-🎓 Student passionate about technology and innovation
-
-💻 Software Engineer focused on building practical applications
-
-🤖 Exploring Artificial Intelligence & Machine Learning
-
-🧠 Learning Deep Learning and modern AI frameworks
-
-🌱 Currently improving my Java and Python development skills
-
-🚀 Open to Open Source contributions and exciting collaborations
-
-⚡ Fun Fact:
-> *"Every expert was once a beginner."*
-
-</td>
-
-</tr>
-</table>
-
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sarth-b94492297/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+<a href="https://www.linkedin.com/in/sarth-b94492297/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:sarthmadaan@gmail.com" target="_blank" aria-label="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:sarthmadaan@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/SarthMadaan001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=SarthMadaan001&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
 
-<div align="center">
+# 👨‍💻 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+```yaml
+Name: Sarth Madaan
 
-</div>
+Role:
+  - Student
+  - Software Engineer
+
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+
+Languages:
+  - Java
+  - Python
+
+Currently Learning:
+  - DSA
+  - System Design
+  - Backend Development
+
+Goal:
+  Build AI-powered software that solves real-world problems.
+```
 
 ---
 
@@ -84,56 +59,26 @@ alt="Sarth Madaan"/>
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
-
-### ⚙️ Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,tensorflow,pytorch,mysql,git,github,vscode,idea,postman&theme=dark"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=SarthMadaan001&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=SarthMadaan001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthMadaan001&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthMadaan001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<br><br>
+<br>
 
 <img
 src="https://streak-stats.demolab.com?user=SarthMadaan001&theme=tokyonight&hide_border=true"/>
-
-</div>
----
-
-<div align="center">
-
-<img width="80%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=SarthMadaan001&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -141,52 +86,23 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=SarthMadaan001&theme
 
 # 🚀 Current Focus
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🌱 Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
-- System Design
-
-</td>
-
-<td width="50%">
-
-### 🎯 2025 Goals
-
-- ⭐ 500+ GitHub Contributions
-- 🚀 Build AI Projects
-- 📚 Master Deep Learning
-- 💼 Land Software Engineering Internship
-- 🌍 Contribute to Open Source
-
-</td>
-
-</tr>
-
-</table>
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📚 Deep Learning
+- 💻 Java Development
+- 🐍 Python Development
+- 🌱 Open Source
 
 ---
 
-# 🧠 Competitive Programming
+# 📌 Featured Projects
 
-<div align="center">
-
-| Platform | Status |
-|----------|--------|
-| 💻 LeetCode | 🟡 Active |
-| ⚡ CodeChef | 🟡 Learning |
-| 🚀 HackerRank | 🟢 Active |
-| 🧩 GeeksforGeeks | 🟢 Practicing |
-
-</div>
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Projects | Machine Learning & Deep Learning |
+| ☕ Java Projects | OOP, Collections & Desktop Applications |
+| 🐍 Python Projects | Automation & AI |
+| 📊 Data Science | Data Analysis & Visualization |
 
 ---
 
@@ -200,82 +116,17 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=SarthMadaan001&theme
 
 ---
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SarthMadaan001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | Description |
-|------------|-------------|
-| 🤖 AI & ML Projects | Machine Learning & Deep Learning applications |
-| ☕ Java Applications | Core Java, OOP, Collections & Swing Projects |
-| 🐍 Python Projects | Automation, Data Analysis & AI |
-| 🌐 Web Development | Responsive websites using HTML, CSS, JavaScript & React |
-
-</div>
-
----
-
-# 📜 Certifications
-
-<div align="center">
-
-🎓 Machine Learning
-
-🎓 Deep Learning
-
-🎓 Java Programming
-
-🎓 Python Programming
-
-*(Update this section with your actual certifications.)*
-
-</div>
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sarth-b94492297/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sarthmadaan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/SarthMadaan001">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/SarthMadaan001/SarthMadaan001/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/SarthMadaan001/SarthMadaan001/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-# 💬 Dev Quote
+# 💬 Quote
 
 <div align="center">
 
@@ -287,16 +138,8 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=SarthMadaan001&theme
 
 <div align="center">
 
-### ⚡ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Amazing!+🚀"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 
 </div>
