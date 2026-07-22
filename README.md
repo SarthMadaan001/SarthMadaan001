@@ -4,7 +4,9 @@
 
 # Hi 👋 I'm Sarth
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Java+Developer;Python+Developer;Always+Learning+🚀"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Java+Developer;Python+Developer;Always+Learning" alt="Typing SVG" />
+</p>
 
 <p>
 <a href="https://www.linkedin.com/in/sarth-b94492297/">
