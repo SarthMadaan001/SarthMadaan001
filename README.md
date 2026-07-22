@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=40" width="100%" />
 
-# Hi 👋, I'm Sarth Madaan
+# Hi 👋, I'm Sarth 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00F72D&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Java+Developer;Python+Programmer;Deep+Learning+Explorer;Always+Learning+New+Things+🚀" />
 
@@ -49,6 +49,7 @@ alt="Sarth Madaan"/>
 </tr>
 </table>
 
+
 ---
 
 ## 🌐 Connect With Me
@@ -68,29 +69,6 @@ alt="Sarth Madaan"/>
 </a>
 
 </p>
-
----
-
-## 💻 Currently Learning
-
-```text
-✔ Advanced Java
-✔ Python for AI
-✔ Machine Learning
-✔ Deep Learning
-✔ Data Structures & Algorithms
-✔ System Design
-```
-
----
-
-<div align="center">
-
-### 💭 Favorite Quote
-
-> **"Success is the sum of small efforts, repeated day in and day out."**
-
-</div>
 
 ---
 
@@ -118,22 +96,16 @@ alt="Sarth Madaan"/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 </p>
 
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs&theme=dark" />
-</p>
-
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
 ### ⚙️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,postman,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
 </p>
 
 </div>
@@ -144,14 +116,18 @@ alt="Sarth Madaan"/>
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SarthMadaan001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=SarthMadaan001&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em"
+<img height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthMadaan001&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
+<img
+src="https://streak-stats.demolab.com?user=SarthMadaan001&theme=tokyonight&hide_border=true"/>
+
+</div>
 ---
 
 <div align="center">
