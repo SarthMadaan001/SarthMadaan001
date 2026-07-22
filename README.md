@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SarthMadaan001/SarthMadaan001/main/assets/profile.jpeg"
+       width="180"
+       style="border-radius:50%;" />
+</p>
 <!--
 **SarthMadaan001/SarthMadaan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
