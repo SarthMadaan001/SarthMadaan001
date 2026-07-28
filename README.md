@@ -71,8 +71,7 @@ Goal:
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=SarthMadaan001&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=SarthMadaan001&theme=tokyonight&hide_border=true" />
 
 </div>
 
