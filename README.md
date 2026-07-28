@@ -69,11 +69,7 @@ Goal:
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=SarthMadaan001&theme=tokyonight&hide_border=true" />
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SarthMadaan001&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
