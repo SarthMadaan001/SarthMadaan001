@@ -69,7 +69,7 @@ Goal:
 
 # 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SarthMadaan001&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarthMadaan001&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
