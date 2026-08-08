@@ -22,7 +22,7 @@
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=SarthMadaan001&style=for-the-badge&color=blue"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=SarthMadaan001&style=for-the-badge&color=blue"/> -->
 
 </div>
 
