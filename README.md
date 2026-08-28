@@ -34,26 +34,39 @@
 Name: Sarth Madaan
 
 Role:
-  - Student
-  - Software Engineer
+  - AI & Machine Learning Engineer
+  - AIML Student
 
 Interests:
-  - Artificial Intelligence
   - Machine Learning
   - Deep Learning
+  - Generative AI
+  - Large Language Models (LLMs)
+  - Agentic AI
+  - Computer Vision
+  - Natural Language Processing
 
-Languages:
-  - Java
+Tech Stack:
   - Python
+  - SQL
+  - Scikit-learn
+  - TensorFlow
+  - Keras
+  - Pandas
+  - NumPy
+  - OpenCV
 
 Currently Learning:
-  - DSA
-  - System Design
-  - Backend Development
+  - Generative AI & LLMs
+  - RAG & Embeddings
+  - AI Agents & MCP
+  - Deep Learning
 
 Goal:
-  Build AI-powered software that solves real-world problems.
+  Build intelligent AI systems that solve real-world problems
+  and create meaningful impact.
 ```
+
 
 ---
 
