@@ -31,7 +31,7 @@
 # 👨‍💻 About Me
 
 ```yaml
-Name: Sarth Madaan
+Name: Sarth 
 
 Role:
   - AI & Machine Learning Engineer
